@@ -20,7 +20,7 @@ export default async function ProductDetail({ params }: { params: Promise<{ id: 
     notFound();
   }
 
-  const whatsappNumber = "917034260515";
+  const whatsappNumber = "919061780845";
   const whatsappMessage = encodeURIComponent(`Hi, I would like to order the ${product.name}.`);
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
 

@@ -27,7 +27,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 className="font-bold text-gray-900">Phone</h3>
-                      <p className="text-gray-500">+91 7034260515</p>
+                      <p className="text-gray-500">+91 9061780845</p>
                       <p className="text-xs text-gray-400 mt-1">Mon-Sat 9am to 6pm</p>
                     </div>
                   </div>
@@ -48,8 +48,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 className="font-bold text-gray-900">WhatsApp</h3>
-                      <p className="text-gray-500">+91 7034260515</p>
-                      <a href="https://wa.me/917034260515" target="_blank" rel="noopener noreferrer" className="text-sm text-orange-500 font-bold hover:underline mt-1 inline-block">Chat Now</a>
+                      <p className="text-gray-500">+91 9061780845</p>
+                      <a href="https://wa.me/919061780845" target="_blank" rel="noopener noreferrer" className="text-sm text-orange-500 font-bold hover:underline mt-1 inline-block">Chat Now</a>
                     </div>
                   </div>
 

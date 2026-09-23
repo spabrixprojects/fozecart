@@ -15,7 +15,7 @@ export default function ContactForm() {
     
     if (!name || !message) return;
 
-    const whatsappNumber = "917034260515";
+    const whatsappNumber = "919061780845";
     const text = `Hi, I'm ${name} (${email}).%0A%0A${message}`;
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${text}`;
     

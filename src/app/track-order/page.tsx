@@ -13,7 +13,7 @@ export default function PlaceholderPage() {
           </div>
           <h1 className="text-3xl font-extrabold text-gray-900 mb-4">Track Your Order</h1>
           <p className="text-gray-500 mb-8">Please message our support team on WhatsApp with your Order ID to get the latest tracking information.</p>
-          <a href="https://wa.me/917034260515" target="_blank" rel="noopener noreferrer" className="inline-flex bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors">
+          <a href="https://wa.me/919061780845" target="_blank" rel="noopener noreferrer" className="inline-flex bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors">
             Track via WhatsApp
           </a>
         </div>
