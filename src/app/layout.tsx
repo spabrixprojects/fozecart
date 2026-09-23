@@ -12,6 +12,8 @@ export const metadata: Metadata = {
   description: "Shop the best quality massage guns, socket sets, vacuum bottles, and portable blenders at FOZE CART.",
 };
 
+import SplashScreen from "@/components/SplashScreen";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -19,7 +21,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={poppins.className}>{children}</body>
+      <body className={poppins.className}>
+        <SplashScreen />
+        {children}
+      </body>
     </html>
   );
 }
